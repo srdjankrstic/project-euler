@@ -1,7 +1,7 @@
 #!/usr/bin/python -tt
 
-# File: 	     p006.py
-# Author: 	   Srdjan Krstic (krstic.m.srdjan@gmail.com)
+# File:        p006.py
+# Author:      Srdjan Krstic (krstic.m.srdjan@gmail.com)
 # Created:     2012-06-30 15:56
 # Description: Project Euler problem 6
 
@@ -16,4 +16,4 @@ def main():
   print sum1 * sum1 - sum2
 
 if __name__ == '__main__':
-	main()
+  main()
